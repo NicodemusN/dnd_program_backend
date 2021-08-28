@@ -1,0 +1,15 @@
+//whitewalker
+
+{
+	"hp" = "10"
+	"speed" = "20"
+	"dexterity" = "9"
+	"strength" = "14"
+	"constitution" = "16"
+	"wisdom" = "10"
+	"intelligence" = "11"
+	"charisma" = "9"
+	"armor_class" = "16"
+	"senses" ={"sense1" "sense2" "sense3"}
+	"languages" = {"all" "nospeak"}
+}
